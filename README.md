@@ -1,7 +1,8 @@
 #	TETRIS_PROJECT
  This is the Demo of TETRIS GAME.
  The purpose of this project to practies with OOP in Java.
- 
+ Project here:
+
 #	Rule of the Game
  
 ........
